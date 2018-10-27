@@ -1,0 +1,57 @@
+Scene Graphs and Animation
+
+5 mins
+Scene Graphs
+
+  1. What is a scene graph
+    - A general data structure commonly used by graphics applications which arranges logical and spactial preprenstation
+    of a graphical scene.
+ 
+    - Collection of nodes in a graph or tree structure.
+      Group related objects into a compound object that can then be moved, transformed, selected as if it were a single object
+
+  2. Motivation
+    - represent connections
+
+  3. Example using a car?
+
+
+  4. Connection with Tranformation Matrices, glPush(), glPop()
+
+  5. Other cool Stuff
+    organize objects in scene
+    Geometry instancing
+    connection to bvh
+
+
+  6. Summary
+  
+10 mins
+Animation
+
+  1. What is animation?
+    Animation is the process of making the illusion of motion and the illusion of change[Note 1] by means of the rapid display of a sequence of static images that minimally differ from each other.
+
+  2. Traditional animation
+
+  3. Ball animation graphic
+
+  4. 12 principles of Animation
+
+  5. Computer Animation
+    - Polygonal mesh
+    - keyframes
+    - interpolation 
+
+  6. Other Cool stuff with computer animation
+    - rigging
+    - 3D dynamics
+    - Grativy, particle simulations
+
+5 mins
+Animation Demo
+  
+  - render dog or helicopter
+  - show scene graph
+  - show interpolation
+  - 
